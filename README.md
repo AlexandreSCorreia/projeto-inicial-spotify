@@ -22,7 +22,6 @@ Este projeto foi feito com as seguintes tecnologias:
 
 <div align="center">
   <img src="SourceReadme/result-1.png">
-  <img src="SourceReadme/result-2.png">
 </div>
 
 </br>
